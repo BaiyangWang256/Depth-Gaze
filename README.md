@@ -1,0 +1,1 @@
+A network for Gaze Estimation, is presented in "Depth Gaze: Dual Feature Fusion with Depth Estimation for Gaze Estimation network". More detailed training code will be available when the paper is published
